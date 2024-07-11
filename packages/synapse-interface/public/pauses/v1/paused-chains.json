@@ -17,23 +17,6 @@
     "disableCountdown": false
   },
   {
-    "id": "arbitrum-chain-pause",
-    "pausedFromChains": [42161],
-    "pausedToChains": [42161],
-    "pauseBridge": true,
-    "pauseSwap": false,
-    "startTimePauseChain": 	"2024-07-11T01:29:36Z",
-    "endTimePauseChain": null,
-    "startTimeBanner": "2024-07-11T01:29:36Z",
-    "endTimeBanner": null,
-    "inputWarningMessage": "Arbitrum bridging is paused until maintenance is complete.",
-    "bannerMessage": "Arbitrum bridging is paused until maintenance is complete.",
-    "progressBarMessage": "Arbitrum maintenance in progress",
-    "disableBanner": false,
-    "disableWarning": false,
-    "disableCountdown": false
-  },
-  {
     "id": "optimism-chain-pause",
     "pausedFromChains": [10],
     "pausedToChains": [10],
