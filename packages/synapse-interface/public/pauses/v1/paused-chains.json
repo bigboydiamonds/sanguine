@@ -1,7 +1,7 @@
 [
   {
     "id": "base-chain-pause",
-    "pausedFromChains": [8453],
+    "pausedFromChains": [444],
     "pausedToChains": [8453],
     "pauseBridge": true,
     "pauseSwap": false,
