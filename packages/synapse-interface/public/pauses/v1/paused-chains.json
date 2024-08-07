@@ -45,7 +45,7 @@
     "endTimeBanner": "2024-08-07T16:02:02Z",
     "inputWarningMessage": "Arbitrum bridging is paused until maintenance is complete.",
     "bannerMessage": "Arbitrum bridging is paused until maintenance is complete.",
-    "progressBarMessage": "Arbiturm maintenance in progress",
+    "progressBarMessage": "Arbitrum maintenance in progress",
     "disableBanner": false,
     "disableWarning": false,
     "disableCountdown": false
